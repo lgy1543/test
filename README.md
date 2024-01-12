@@ -7,4 +7,6 @@ test
 5차 수정 : window
 6차 수정 : mac
 7차 수정 : mac
+8차 수정 : mac
+9차 수정 : mac
 8차 수정 : window
