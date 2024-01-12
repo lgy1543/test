@@ -11,3 +11,4 @@ test
 9차 수정 : mac
 10차 수정 : window
 11차 수정 : feature1 기능 추가
+12차 수정 : feature2 기능 추가
